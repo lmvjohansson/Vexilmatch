@@ -1,3 +1,6 @@
+Project created with collaborators Sarah Saleh, Jakob Kuylenstierna and Munira Ibrahim
+
+
 ------------------ README for Project Submission 23/12/2024 -----------------------------
 
 Run the project the same way as in the labs:
